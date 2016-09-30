@@ -1,19 +1,18 @@
 //
-//  FunMomentsTests.m
-//  FunMomentsTests
+//  EventsInformerTests.m
+//  EventsInformerTests
 //
-//  Created by ilabadmin on 7/19/16.
-//  Copyright (c) 2016 softikoda. All rights reserved.
+//  Created by AnthonyB on 19/09/2016.
+//  Copyright © 2016 anto. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface FunMomentsTests : XCTestCase
+@interface EventsInformerTests : XCTestCase
 
 @end
 
-@implementation FunMomentsTests
+@implementation EventsInformerTests
 
 - (void)setUp {
     [super setUp];
@@ -27,7 +26,7 @@
 
 - (void)testExample {
     // This is an example of a functional test case.
-    XCTAssert(YES, @"Pass");
+    // Use XCTAssert and related functions to verify your tests produce the correct results.
 }
 
 - (void)testPerformanceExample {
