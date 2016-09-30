@@ -1,9 +1,9 @@
 //
 //  main.m
-//  FunMoments
+//  EventsInformer
 //
-//  Created by ilabadmin on 7/19/16.
-//  Copyright (c) 2016 softikoda. All rights reserved.
+//  Created by AnthonyB on 19/09/2016.
+//  Copyright © 2016 anto. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
